@@ -1,0 +1,3 @@
+# gealonemenchie
+NOTE APP STARTER CODE
+MIDTERM PROJECT
